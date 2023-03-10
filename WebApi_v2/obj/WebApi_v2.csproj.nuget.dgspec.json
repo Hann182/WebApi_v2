@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\it4\\Documents\\IT4\\Projetos\\WebApi_v2\\WebApi_v2\\WebApi_v2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\it4\\Documents\\IT4\\Projetos\\WebApi_v2\\WebApi_v2\\WebApi_v2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\it4\\Documents\\IT4\\Projetos\\WebApi_v2\\WebApi_v2\\WebApi_v2.csproj",
+        "projectName": "WebApi_v2",
+        "projectPath": "C:\\Users\\it4\\Documents\\IT4\\Projetos\\WebApi_v2\\WebApi_v2\\WebApi_v2.csproj",
+        "packagesPath": "C:\\Users\\it4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\it4\\Documents\\IT4\\Projetos\\WebApi_v2\\WebApi_v2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\it4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/it4-solution-360/auth/9b41543f-b490-4e60-bc2b-2de115955bc6/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
